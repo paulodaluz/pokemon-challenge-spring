@@ -3,7 +3,7 @@
 Bem vindo ao desafio PokeApi.
 
 # 💻 Projeto
-Este desafio consiste na implementação de um Backend em Java com Spring Boot. Você deverá consumir a api externa do PokéAPI e retornar alguns dados tratados do pokemon.
+Este desafio consiste na implementação de um Backend em **Java com Spring Boot**. Você deverá consumir a api externa do PokéAPI e retornar alguns dados tratados do pokemon.
 
 ## 🚧 Requisitos
 - [ ] O backend deverá ter uma rota GET onde receberá por path parameter o nome do pokemon.
